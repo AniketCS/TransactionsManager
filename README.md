@@ -20,5 +20,3 @@ Project Structure
 To add new accounts, modify the Accounts.txt file by following the format: ACCOUNT_TYPE ACCOUNT_ID BALANCE_OR_CREDIT.
 
 To add new transactions, modify the Transactions.txt file by following the format: ACCOUNT_TYPE ACCOUNT_ID TRANSACTION_TYPE AMOUNT.
-
-Please note that account IDs should be unique, and transaction amounts should be positive values for deposits and negative values for withdrawals.
