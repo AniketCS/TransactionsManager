@@ -3,6 +3,10 @@ Banking Transactions Simulator is a Java-based project that simulates banking tr
 The program will read the account information from Accounts.txt, apply transactions from Transactions.txt, and display the final balances of specific accounts.
 Project Structure
 
+# Getting Started
+
+To start the project, make sure you have Java Development Kit (JDK) 8 or later installed on your system. The project includes sample data files (Accounts.txt and Transactions.txt) for your convenience. The data in these files can be updated with actual data you want to test on. Simply compile and run the Main.java class to start the simulation.
+
 
 # The project is organized into different folders:
 -Constants: Contains Java enumerations for account types (AccountType) and transaction types (Transaction).
