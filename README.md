@@ -1,5 +1,5 @@
-# Banking-Transactions-Simulator
-Banking Transactions Simulator is a Java-based project that simulates banking transactions for checking and credit accounts. It allows the creation of accounts, deposits, and withdrawals, and tracks the balance or credit of each account after applying transactions.  
+# Transactions-Management-App
+Transactions Manager is a Java-based project that simulates banking transactions for checking and credit accounts. It allows the creation of accounts, deposits, and withdrawals, and tracks the balance or credit of each account after applying transactions.  
 The program will read the account information from Accounts.txt, apply transactions from Transactions.txt, and display the final balances of specific accounts.
 Project Structure
 
